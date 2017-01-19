@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+### Dweep 1.01
+Introduction:  I am not a games player. Let’s get that straight from the beginning. I have a total of over 10 GigaBytes of disk space, and other than a few Microsoft freebies, there isn’t a game to be found on my hard drive. I’m also a member of the Association of Shareware Professionals. What’s the connection? Well the ASP has some member-only newsgroups, and it was here that I first heard about Dweep. I’m usually quite impervious when it comes to games, but these guys are hard to please - they’re the professionals of the shareware world, and their standards are high. Yet here they were complaining about how damn addictive the game was! That was where my downfall began.
 
-You can use the [editor on GitHub](https://github.com/python-imaging/python-imaging.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You see, out of curiosity I decided to go and check the author’s site out… couldn’t do any harm right? And I was impressed - described as an "addictive real-time DirectX puzzle game… non-violent… a beautiful full-screen world of 65,000+ colours, pre-rendered 3D art, comical sound effects, and whimsical music…" all of which seemed quite true. So I thought I’d download the trial version - just have a quick look, and see what the fuss was about. Wasn’t going to hurt was it?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+And that was that. Hook, line and sinker… I’m addicted. It’s that simple.
 
-### Markdown
+## Features:  
+Where to begin? It’s all so hard to see logic in the whole thing. The game is fantastic! There’s no doubt about that. The basic idea is that you have to help Dweep ( a cute, furry defenceless creature trapped in a hostile world!) to rescue the baby dweeps. Each level is essentially a puzzle containing a series of obstacles, there are various tools that you can pick-up and use on the way, and it boils down to a (not-so) simple logic game. There are a few factors that immediately sprang to mind, that caused us to make an exception to our no-games review policy. The first is that it’s non-violent. There are a huge number of games out there that encourage your children (and you) to run around causing carnage. Blowing holes in people, chopping of heads, blowing people up and stabbing all seem to be part of the fun. Hmmm. Questionable is an understatement. This game has none of that - there’s nothing to kill or hurt, and the most destructive aspect involves setting lasers up against each other. Even I can handle that! The next thing about the game is that it’s actually quite nice looking! The graphics are superb, and you’ll soon find yourself thinking of Dweep as quite "cute" believe it or not… even the sound effects are pleasant. The author, by the way, describes the music as "whimsical" which I found to be an original and innovative marketing technique! And yes, if the sounds and/or whimsical music start to annoy you, you can turn them of. It’s not one of those games either!!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In short, it’s a great game. The puzzles get progressively more difficult and complex, and believe me when I tell you that there are times when you can NOT tear yourself away from it! If you’re anywhere near as stubborn as I am, then this game might well infuriate you at times! You know there’s a way, but you just can’t find the &*#¤** thing! The good news is that there’s relief. The author’s website has both hints and complete solutions for each level, so once you really get stuck, there’s always help at hand. I also like the fact that you can leave a level for another time, and proceed to the next. If your pride won’t let you reach for help, you can always face it again later… yeah right!
 
-```markdown
-Syntax highlighted code block
+## Problems:
+There were only two problems. The first is that describing it as "addictive" is an understatement. When I loaded up the software for a screenshot, I ended up playing for around two hours before being able to pull myself away. And I forgot the screenshot. The other problem is that as well as your time being at risk, your mouse, keyboard and monitor might also get hurt… when I get frustrated I start getting very heavy on the old hardware! I hope it’s coincidence that I just had to change my keyboard and mouse!! Okay - so these aren’t problems at all… the software did seem to be entirely bug-free, and my only complaint is the time-drinking factor!
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/python-imaging/python-imaging.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Conclusion:
+This is one great game! The majority of the psychotic mass-destruction options that are out there have as much appeal to me as the thought of cleaning-out the kitchen sink with my tongue. But this one’s different. It’s great fun and addictive, with fantastic graphics, and the puzzles are simply superb! I’m no games expert, but know enough to say that this game is GOOD! But in case the disclaimer at the bottom of this page isn’t enough, let me warn you: Installing this game on your work machine may affect your productivity! Having said which I can honestly say that I enjoyed testing this software more than any other!! And now I have to go - I think I just realised how to get past level 12…
