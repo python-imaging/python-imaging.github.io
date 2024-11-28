@@ -5,19 +5,7 @@ You see, out of curiosity I decided to go and check the author’s site out… c
 
 And that was that. Hook, line and sinker… I’m addicted. It’s that simple.
 
-### Our Mission Statement
 
-By creating an account on [www.soundcloudpromotions.com/](http://soundcloudpromotions.com/), you as the musician will find a wide range of services available to help increase the amount of targeted followers that you are pursuing. 
-
-Followers are able to play, listen, download, and comment on a wide range of musicians; providing either positive or negative feedback for a variety of musicians, allowing them to get their name and reputations out there. With different promotional packages to choose from, you can find a package that fits not only yours specified needs, but also a package that fits your current budget.
-
-When creating your account, just choose from one of four different package options, entitled Solo, Lite, Pro, or Pro Plus.
-
-To create an account, you must first choose one out of the four packages provided, that meets your specified needs. Then make the appropriate payment associated with your chosen package. 
-
-The third step needed to activate the new account will entail the new user to provide a list of required information and make the appropriate payment. Once both of these have been taken care of, the processing period will begin, usually taking about twenty-four hours, and will take about one to three hours for the account to be set up and ready for use. 
-
-The last and final step involves picking a new package; when receiving a new boost from your package, you as the new user, must e-mail the website accordingly. 
 
 ## Features:  
 Where to begin? It’s all so hard to see logic in the whole thing. The game is fantastic! There’s no doubt about that. The basic idea is that you have to help Dweep ( a cute, furry defenceless creature trapped in a hostile world!) to rescue the baby dweeps. Each level is essentially a puzzle containing a series of obstacles, there are various tools that you can pick-up and use on the way, and it boils down to a (not-so) simple logic game. There are a few factors that immediately sprang to mind, that caused us to make an exception to our no-games review policy. The first is that it’s non-violent. There are a huge number of games out there that encourage your children (and you) to run around causing carnage. Blowing holes in people, chopping of heads, blowing people up and stabbing all seem to be part of the fun. Hmmm. Questionable is an understatement. This game has none of that - there’s nothing to kill or hurt, and the most destructive aspect involves setting lasers up against each other. Even I can handle that! The next thing about the game is that it’s actually quite nice looking! The graphics are superb, and you’ll soon find yourself thinking of Dweep as quite "cute" believe it or not… even the sound effects are pleasant. The author, by the way, describes the music as "whimsical" which I found to be an original and innovative marketing technique! And yes, if the sounds and/or whimsical music start to annoy you, you can turn them of. It’s not one of those games either!!
